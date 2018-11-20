@@ -1,0 +1,57 @@
+*{
+    font-family: Comic Sans MS;
+}
+
+div {
+    border: 2px solid #000000;
+    width: 90%;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+body{
+    background-image: url(/android_asset/www/img/img_1.jpg);
+    background-repeat: no-repeat;
+}
+.div_1{
+    background-color: red;
+}
+
+.div_2{
+    background-color: orange;
+}
+
+.div_3{
+    background-color: yellow;
+}
+
+.div_4{
+    background-color: green;
+}
+
+.div_5{
+    background-color: blue;
+}
+
+.div_6{
+    background-color: purple;
+}
+
+.div_7{
+    background-color: cyan;
+}
+h2{
+    text-align: left;
+}
+
+.blanco{
+    color: white;
+    text-decoration: none;
+}
+input{
+    width: 90%;
+    background-color: rgb(150, 100, 255);
+    border-radius: 5px;
+    border: 0px;
+    font-size: 20px;
+    text-decoration: none;
+}
